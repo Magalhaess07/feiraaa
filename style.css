@@ -250,3 +250,17 @@ nav a {
 nav a:hover {
     color: #9b452b;
 }
+.cardapio-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff69b4;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.cardapio-link:hover {
+    background-color: #ff1493;
+}
